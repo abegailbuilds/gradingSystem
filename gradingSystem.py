@@ -55,7 +55,7 @@ while userinput != "q":
             print(f"The average mark is: {new_average}")
             print(f"Your grade is: {grade}")
 
-        elif new_average<40:
+        else:
             grade="F"
             print(f"The average mark is: {new_average}")
             print(f"Your grade is: {grade}")
