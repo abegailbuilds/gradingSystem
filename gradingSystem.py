@@ -1,5 +1,6 @@
 #the system should ask the user to enter their marks
 #calculate the average mark and assign grade
+
 userinput = 0
 sum = 0
 average = 0
@@ -59,10 +60,8 @@ while userinput != "q":
             print(f"The average mark is: {new_average}")
             print(f"Your grade is: {grade}")
 
-
-
-
-
+        inputs = 0
+        sum = 0
 
 
 
